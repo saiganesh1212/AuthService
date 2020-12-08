@@ -43,7 +43,7 @@ namespace AuthService.Controllers
             {
                 var token = GenerateJSONWebToken(user);
                 _log4net.Info("Successfully logged In and token returned for user " + user.Username);
-                return Ok(new { token = token });
+                return Ok(new { token = token, user = result});
             }
         }
         private string GenerateJSONWebToken(User userInfo)

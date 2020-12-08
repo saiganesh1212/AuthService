@@ -7,3 +7,12 @@ INFO  01:24:46 Content root path: C:\Users\Ganesh\Desktop\AuthService
 INFO  01:25:06 Login Initiated for user Ganesh
 INFO  01:25:06 Token Generation Started
 INFO  01:25:07 Successfully logged In and token returned for user Ganesh
+INFO  12:13:54 Application started. Press Ctrl+C to shut down.
+INFO  12:13:54 Application started. Press Ctrl+C to shut down.
+INFO  12:13:54 Hosting environment: Development
+INFO  12:13:54 Hosting environment: Development
+INFO  12:13:54 Content root path: C:\Users\Ganesh\Desktop\AuthService
+INFO  12:13:54 Content root path: C:\Users\Ganesh\Desktop\AuthService
+INFO  12:14:28 Login Initiated for user Ganesh
+INFO  12:14:28 Token Generation Started
+INFO  12:14:28 Successfully logged In and token returned for user Ganesh
